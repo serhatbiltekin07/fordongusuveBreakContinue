@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\projeler\forDongusuveBreakContinue\forDongusuveBreakContinue\bin\Debug\forDongusuveBreakContinue.exe.config
+C:\Users\user\Desktop\projeler\forDongusuveBreakContinue\forDongusuveBreakContinue\bin\Debug\forDongusuveBreakContinue.exe
+C:\Users\user\Desktop\projeler\forDongusuveBreakContinue\forDongusuveBreakContinue\bin\Debug\forDongusuveBreakContinue.pdb
+C:\Users\user\Desktop\projeler\forDongusuveBreakContinue\forDongusuveBreakContinue\obj\Debug\forDongusuveBreakContinue.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projeler\forDongusuveBreakContinue\forDongusuveBreakContinue\obj\Debug\forDongusuveBreakContinue.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\projeler\forDongusuveBreakContinue\forDongusuveBreakContinue\obj\Debug\forDongusuveBreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler\forDongusuveBreakContinue\forDongusuveBreakContinue\obj\Debug\forDongusuveBreakContinue.exe
+C:\Users\user\Desktop\projeler\forDongusuveBreakContinue\forDongusuveBreakContinue\obj\Debug\forDongusuveBreakContinue.pdb
